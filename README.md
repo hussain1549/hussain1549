@@ -13,24 +13,24 @@ I bridge the gap between theoretical network modeling and practical hardware-sof
 *   **Resilient Systems:** Designing dependable communication schemes optimized for drone swarms and critical infrastructure[cite: 1, 3].
 
 ### 🛠️ Tech Stack & Tooling
-*   **Languages & Simulators:** Python, MATLAB/Simulink, C/C++, Verilog, NS3, OMNeT++[cite: 1, 3]
-*   **Methods:** Machine Learning, Reinforcement Learning, Quantitative Modeling[cite: 1, 3]
-*   **Hardware/Embedded:** STM32 Firmware, PCB Design, Hardware-Software Co-Design[cite: 1, 3]
+*   **Languages & Simulators:** Python, MATLAB/Simulink, C/C++, Verilog, NS3, OMNeT++
+*   **Methods:** Machine Learning, Reinforcement Learning, Quantitative Modeling
+*   **Hardware/Embedded:** STM32 Firmware, PCB Design, Hardware-Software Co-Design
 
 ---
 
 ### 📊 Featured Repositories / Research Code
 *(Pro-tip: Hyperlink these to your actual repositories below)*
 *   📂 **[URLLC-6G-Edge-Simulator](your-link-here)**: A Python/MATLAB framework integrating realistic channel models, traffic queuing, and RL-based resource allocation.
-*   📂 **[Link-Level-PHY-Sim](your-link-here)**: Multi-antenna wireless system simulator featuring adaptive modulation, channel coding, and fading channel analysis (MATLAB/C++)[cite: 1].
-*   📂 **[Real-Time-Sensor-Firmware](your-link-here)**: Deterministic, low-latency C/C++ firmware built for kHz-level sampling and sensor data pipelines[cite: 1].
+*   📂 **[Link-Level-PHY-Sim](your-link-here)**: Multi-antenna wireless system simulator featuring adaptive modulation, channel coding, and fading channel analysis (MATLAB/C++).
+*   📂 **[Real-Time-Sensor-Firmware](your-link-here)**: Deterministic, low-latency C/C++ firmware built for kHz-level sampling and sensor data pipelines.
 
 ---
 
 ### 📝 Recent Publications
-*   **Ahmad, H.**, Aslam, S., Naseem, A. (2026). *Enhancing URLLC in 6G Edge Networks via ICN and Near-Zero Handover.* (IEEE IoT Journal - Submitted)[cite: 1, 3].
-*   **Ahmad, H.**, Aslam, S., Naseem, A. (2026). *Semantic-Aware Resource Orchestration for URLLC in 6G mmWave Edge Computing Networks.* (Submitted)[cite: 1, 3].
-*   **Ahmad, H.**, et al. (2021). *AI-enabled Stretch Optimization in Information-Centric Networking for Tactile Internet.* MDPI Applied Sciences[cite: 1, 3].
+*   **Ahmad, H.**, Aslam, S., Naseem, A. (2026). *Enhancing URLLC in 6G Edge Networks via ICN and Near-Zero Handover.* (IEEE IoT Journal - Submitted).
+*   **Ahmad, H.**, Aslam, S., Naseem, A. (2026). *Semantic-Aware Resource Orchestration for URLLC in 6G mmWave Edge Computing Networks.* (Submitted).
+*   **Ahmad, H.**, et al. (2021). *AI-enabled Stretch Optimization in Information-Centric Networking for Tactile Internet.* MDPI Applied Sciences.
 
 ---
 
