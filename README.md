@@ -34,7 +34,6 @@ I bridge the gap between theoretical network modeling and practical hardware-sof
 ---
 
 ### 📫 Connect with Me
-*   💼 **LinkedIn:** [Your Link]
 *   📧 **Email:** hussainbuic@gmail.com[cite: 1, 3]
 *   📍 **Location:** Copenhagen, Denmark[cite: 1, 3]
 
