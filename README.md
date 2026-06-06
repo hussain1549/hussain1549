@@ -8,9 +8,9 @@ I bridge the gap between theoretical network modeling and practical hardware-sof
 ---
 
 ### 🚀 What I'm Working On
-*   **6G Edge Networks:** Developing simulation frameworks to achieve near-zero handover and semantic-aware resource orchestration[cite: 1, 3].
-*   **Intelligent URLLC:** Utilizing Reinforcement Learning (Q-Learning) to optimize routing and latency constraints for the Tactile Internet[cite: 1, 3].
-*   **Resilient Systems:** Designing dependable communication schemes optimized for drone swarms and critical infrastructure[cite: 1, 3].
+*   **6G Edge Networks:** Developing simulation frameworks to achieve near-zero handover and semantic-aware resource orchestration.
+*   **Intelligent URLLC:** Utilizing Reinforcement Learning (Q-Learning) to optimize routing and latency constraints for the Tactile Internet.
+*   **Resilient Systems:** Designing dependable communication schemes optimized for drone swarms and critical infrastructure.
 
 ### 🛠️ Tech Stack & Tooling
 *   **Languages & Simulators:** Python, MATLAB/Simulink, C/C++, Verilog, NS3, OMNeT++
@@ -35,7 +35,7 @@ I bridge the gap between theoretical network modeling and practical hardware-sof
 ---
 
 ### 📫 Connect with Me
-*   📧 **Email:** hussainbuic@gmail.com[cite: 1, 3]
-*   📍 **Location:** Copenhagen, Denmark[cite: 1, 3]
+*   📧 **Email:** hussainbuic@gmail.com
+*   📍 **Location:** Copenhagen, Denmark
 
-*⚡ Fun fact: When I'm not optimizing communication loops or tweaking embedded firmware, you'll find me lifting at the gym or gaming online[cite: 1, 3].*
+*⚡ Fun fact: When I'm not optimizing communication loops or tweaking embedded firmware, you'll find me lifting at the gym or gaming online.*
