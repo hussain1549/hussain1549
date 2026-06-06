@@ -1,6 +1,6 @@
 # Hi there, I'm Qazi Hussain Ahmad 👋 
 
-I am a **Research-Oriented Wireless Engineer & PhD Applicant** specializing in next-generation, resilient communication systems. My work lives at the intersection of **AI/ML optimization, Edge Computing, and 5G/6G Intelligent URLLC**. 
+I am a **Research-Oriented Wireless Engineer** specializing in next-generation, resilient communication systems. My work lives at the intersection of **AI/ML optimization, Edge Computing, and 5G/6G Intelligent URLLC**. 
 
 I bridge the gap between theoretical network modeling and practical hardware-software implementation.
 
