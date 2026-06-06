@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/hussain1549/hussain1549/blob/main/cover.png?raw=true)
 # Hi there, I'm Qazi Hussain Ahmad 👋 
 
 I am a **Research-Oriented Wireless Engineer** specializing in next-generation, resilient communication systems. My work lives at the intersection of **AI/ML optimization, Edge Computing, and 5G/6G Intelligent URLLC**. 
