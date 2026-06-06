@@ -19,14 +19,6 @@ I bridge the gap between theoretical network modeling and practical hardware-sof
 
 ---
 
-### 📊 Featured Repositories / Research Code
-*(Pro-tip: Hyperlink these to your actual repositories below)*
-*   📂 **[URLLC-6G-Edge-Simulator](your-link-here)**: A Python/MATLAB framework integrating realistic channel models, traffic queuing, and RL-based resource allocation.
-*   📂 **[Link-Level-PHY-Sim](your-link-here)**: Multi-antenna wireless system simulator featuring adaptive modulation, channel coding, and fading channel analysis (MATLAB/C++).
-*   📂 **[Real-Time-Sensor-Firmware](your-link-here)**: Deterministic, low-latency C/C++ firmware built for kHz-level sampling and sensor data pipelines.
-
----
-
 ### 📝 Recent Publications
 *   **Ahmad, H.**, Aslam, S., Naseem, A. (2026). *Enhancing URLLC in 6G Edge Networks via ICN and Near-Zero Handover.* (IEEE IoT Journal - Submitted).
 *   **Ahmad, H.**, Aslam, S., Naseem, A. (2026). *Semantic-Aware Resource Orchestration for URLLC in 6G mmWave Edge Computing Networks.* (Submitted).
