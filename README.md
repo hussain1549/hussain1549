@@ -6,6 +6,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Artificial Intelligence](https://img.shields.io/badge/AI%20%2F%20ML-3F48CC?style=for-the-badge&logo=openai&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-%23ED1C24.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
 
 <!-- AI, ML & Math -->
 ![Artificial Intelligence](https://img.shields.io/badge/AI%20%2F%20ML-3F48CC?style=for-the-badge&logo=openai&logoColor=white)
