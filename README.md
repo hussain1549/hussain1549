@@ -4,11 +4,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!-- AI, ML & Math -->
 ![Artificial Intelligence](https://img.shields.io/badge/AI%20%2F%20ML-3F48CC?style=for-the-badge&logo=openai&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=MathWorks&logoColor=white)
 
 <!-- Network Simulation (Custom Badges) -->
 ![ns-3](https://img.shields.io/badge/ns--3-007ACC?style=for-the-badge&logo=network-wired&logoColor=white)
