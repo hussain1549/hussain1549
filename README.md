@@ -1,5 +1,6 @@
 ![Profile Banner](https://github.com/hussain1549/hussain1549/blob/main/hussain1549.png?raw=true)
 # Hi there, I'm Qazi Hussain Ahmad 👋 
+![Alternative Text](https://img.shields.io/badge/Label-Message-Color?style=StyleName&logo=LogoName)
 
 I am a **Research-Oriented Wireless Engineer** specializing in next-generation, resilient communication systems. My work lives at the intersection of **AI/ML optimization, Edge Computing, and 5G/6G Intelligent URLLC**. 
 
